@@ -163,4 +163,7 @@ WARN[0000] /home/nti/DevOps-Labs/Docker/Lab8/iVolveApp/docker-compose.yml: the a
 [+] down 3/3
  ✔ Container node_app           Removed                                                                                           11.1s
  ✔ Container mysql_db           Removed                                                                                            2.2s
- ✔ Network ivolveapp_ivolve-net Removed  
+ ✔ Network ivolveapp_ivolve-net Removed
+
+<img width="2846" height="1456" alt="image" src="https://github.com/user-attachments/assets/6d1f689d-ff32-4870-9fb9-c3e4a9cbbaca" />
+
